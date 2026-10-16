@@ -6,3 +6,5 @@ let employeeList=[
     new Employee(200,"def",50000),
     new Employee(300,"mno",40000)
 ]
+
+export {employeeList}
